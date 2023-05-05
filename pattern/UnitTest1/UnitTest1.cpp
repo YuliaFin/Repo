@@ -148,7 +148,6 @@ namespace UnitTest1
 			Assert::IsTrue(callSqrt->arg() == number && callSqrt->name() == "abs");
 
 		}
-	
 
 	};
 }
