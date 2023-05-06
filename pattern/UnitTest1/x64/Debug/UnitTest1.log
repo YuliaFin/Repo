@@ -1,0 +1,17 @@
+﻿  UnitTest1.cpp
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(16,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(23,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(44,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(53,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(62,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(71,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(80,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(94,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(101,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(108,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(115,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(122,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\UnitTest1\UnitTest1.cpp(145,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crazy\source\repos\pattern\pattern\pattern.cpp(76): warning C4715: BinaryOperation::evaluate: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\crazy\source\repos\pattern\x64\Debug\UnitTest1.lib и объект C:\Users\crazy\source\repos\pattern\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\crazy\source\repos\pattern\x64\Debug\UnitTest1.dll
