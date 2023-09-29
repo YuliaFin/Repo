@@ -1,5 +1,7 @@
 # Лабораторная №1 по дисциплине компьютерная графика
 
+[![Анимация](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)
+
 Лабораторная заключается в пошаговом построение геометрических изображений.
 Необходимо создать графическую программу, которая позволит создавать и управлять параметрами эллипса.
 
@@ -26,6 +28,5 @@
 
 :smile:
 
-[![Анимация](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)
 
 
