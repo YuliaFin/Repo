@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-0.1.1-blue.svg)](https://github.com/YuliaFin/LabCG)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20us-blue.svg?style=for-the-badge&logo=telegram)](@Yulia_fin)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://web.telegram.org/@Yulia_fin)
 
 
 Лабораторная заключается в пошаговом построение геометрических изображений.
