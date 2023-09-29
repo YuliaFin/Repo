@@ -26,3 +26,6 @@
 
 :smile:
 
+[![Анимация](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)](https://github.com/YuliaFin/Lab_CG/blob/master/GIF%20and%20IMG/Эллипс.gif)
+
+
